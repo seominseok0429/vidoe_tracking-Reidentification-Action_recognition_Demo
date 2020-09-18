@@ -23,3 +23,9 @@ code  : https://github.com/facebookresearch/SlowFast
 <div align="center">
   <img src="tracking_action_trcognition.gif" width="800px"/>
 </div>
+
+## Pipeline
+
+<div align="center">
+  <img src="tracking_action_trcognition.gif" width="800px"/>
+</div>
