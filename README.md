@@ -1,12 +1,12 @@
 ## vidoe tracking+Re identification+Action recognition_Demo
 
-## tracking
+## Tracking
 
 paper : FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking (https://arxiv.org/abs/2004.01888)
 
 code  : https://github.com/ifzhang/FairMOT
 
-## re-identification
+## Re-identification
 
 paper : Bag of Tricks and A Strong Baseline for Deep Person Re-identification (https://arxiv.org/abs/1903.07071)
 
