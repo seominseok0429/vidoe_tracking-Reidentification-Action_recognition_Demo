@@ -2,6 +2,8 @@
 
 Our demo code can do Action recognition, Tracking, and Re-identification. Recognizable actions can be classified as walk, carry cargo, telephone, and stand.
 
+**Our full code will be released on December 29th.**
+
 ## Tracking
 
 paper : FairMOT: On the Fairness of Detection and Re-Identification in Multiple Object Tracking (https://arxiv.org/abs/2004.01888)
