@@ -15,7 +15,7 @@ code  : https://github.com/michuanhaohao/reid-strong-baseline
 paper : SlowFast Networks for Video Recognition (https://arxiv.org/abs/1812.03982)
 code  : https://github.com/facebookresearch/SlowFast
 
-### Demo
+## Demo
 
 <div align="center">
   <img src="tracking_action_trcognition.gif" width="800px"/>
