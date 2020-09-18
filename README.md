@@ -29,3 +29,9 @@ code  : https://github.com/facebookresearch/SlowFast
 <div align="center">
   <img src="img1.PNG" width="800px"/>
 </div>
+
+<hr>
+
+<div align="center">
+  <img src="img2.PNG" width="800px"/>
+</div>
